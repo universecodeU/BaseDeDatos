@@ -39,7 +39,7 @@
 		1,
 		'Leydi Vazquez Carreon',
 		'ladyvazquez0102@gmail.com',
-		'2212134359'
+		'2212345678'
 	);
 
 	insert into student (IdAlumno, Nombre, Correo, Celular) values 
@@ -47,7 +47,7 @@
 		2,
 		'Martin Cruz',
 		'martin_asesorias@gmail.com',
-		'238000123456'
+		'2380123456'
 	);
 
 	/*ver registro*/
